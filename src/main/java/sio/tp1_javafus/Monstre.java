@@ -16,8 +16,8 @@ public class Monstre {
     - attaque en entier
     - defense en entier
     - coupCritique en entier
-    - kamaGagneMax en entier
     - kamaGagneMin en entier
+    - kamaGagneMax en entier
     Vous devrez veiller à les déclarer. /!\ à l'encapsulation
     Par ailleurs, il faudra créer le constructeur.
     */
